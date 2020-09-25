@@ -6,7 +6,7 @@ num2 = input('Enter second number: ')
 
 sum=0 
 # Uncomment the following code
-#sum = float(num1) + float(num2)
+sum = int(num1)+int(num2)
  
 # Display the sum
 print(sum)
